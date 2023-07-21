@@ -1,0 +1,500 @@
+[
+ {
+  "no": 1001,
+  "type": "X10",
+  "action": [
+   {
+    "name": "D",
+    "resource": [
+     "D01"
+    ],
+    "cost": 60
+   },
+   {
+    "name": "DQ",
+    "resource": [
+     "DQ01"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "KT",
+    "resource": [
+     "KT01"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "JY",
+    "resource": [
+     "JY01"
+    ],
+    "cost": 900
+   },
+   {
+    "name": "HKDY",
+    "resource": [
+     "HKDY01"
+    ],
+    "cost": 1200
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD01",
+     "GD02"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 0,
+  "launch_time": 1800
+ },
+ {
+  "no": 1002,
+  "type": "X15",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": [
+     "YQ01",
+     "YQ02"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "DQ",
+    "resource": [
+     "DQ01"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "YY",
+    "resource": [
+     "YY01"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "KT",
+    "resource": [
+     "KT01",
+     "KT02"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "HKDY",
+    "resource": [
+     "HKDY01",
+     "HKDY02"
+    ],
+    "cost": 1200
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD01",
+     "GD02"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 60,
+  "launch_time": 1860
+ },
+ {
+  "no": 1003,
+  "type": "X11",
+  "action": [
+   {
+    "name": "D",
+    "resource": [
+     "D01",
+     "D02"
+    ],
+    "cost": 60
+   },
+   {
+    "name": "DQ",
+    "resource": [
+     "DQ01",
+     "DQ02"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "YY",
+    "resource": [
+     "YY01"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "KT",
+    "resource": [
+     "KT01",
+     "KT02"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "JY",
+    "resource": [
+     "JY01"
+    ],
+    "cost": 900
+   },
+   {
+    "name": "HKDY",
+    "resource": [
+     "HKDY01"
+    ],
+    "cost": 1200
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD01",
+     "GD02"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 120,
+  "launch_time": 1920
+ },
+ {
+  "no": 1004,
+  "type": "X12",
+  "action": [
+   {
+    "name": "D",
+    "resource": [
+     "D01",
+     "D02"
+    ],
+    "cost": 60
+   },
+   {
+    "name": "JY",
+    "resource": [
+     "JY02"
+    ],
+    "cost": 900
+   },
+   {
+    "name": "HKDY",
+    "resource": [
+     "HKDY02"
+    ],
+    "cost": 1200
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD02",
+     "GD03"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 180,
+  "launch_time": 1980
+ },
+ {
+  "no": 1005,
+  "type": "X13",
+  "action": [
+   {
+    "name": "D",
+    "resource": [
+     "D02"
+    ],
+    "cost": 60
+   },
+   {
+    "name": "JY",
+    "resource": [
+     "JY03"
+    ],
+    "cost": 900
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD02",
+     "GD03"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 240,
+  "launch_time": 2040
+ },
+ {
+  "no": 1006,
+  "type": "X14",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": [
+     "YQ03",
+     "YQ04"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "DQ",
+    "resource": [
+     "DQ02",
+     "DQ03"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "YY",
+    "resource": [
+     "YY03",
+     "YY04"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "HKDY",
+    "resource": [
+     "HKDY03",
+     "HKDY04"
+    ],
+    "cost": 1200
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD03",
+     "GD04"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 300,
+  "launch_time": 2100
+ },
+ {
+  "no": 1007,
+  "type": "X21",
+  "action": [
+   {
+    "name": "D",
+    "resource": [
+     "D03",
+     "D04"
+    ],
+    "cost": 60
+   },
+   {
+    "name": "JY",
+    "resource": [
+     "JY03",
+     "JY04"
+    ],
+    "cost": 900
+   },
+   {
+    "name": "HKDY",
+    "resource": [
+     "HKDY03",
+     "HKDY04"
+    ],
+    "cost": 1200
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD03",
+     "GD04"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 360,
+  "launch_time": 2160
+ },
+ {
+  "no": 1008,
+  "type": "X22",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": [
+     "YQ05",
+     "YQ06"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "DQ",
+    "resource": [
+     "DQ04"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "YY",
+    "resource": [
+     "YY04"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD05",
+     "GD06"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 420,
+  "launch_time": 2220
+ },
+ {
+  "no": 1009,
+  "type": "X17",
+  "action": [
+   {
+    "name": "D",
+    "resource": [
+     "D04",
+     "D05"
+    ],
+    "cost": 60
+   },
+   {
+    "name": "JY",
+    "resource": [
+     "JY05",
+     "JY06"
+    ],
+    "cost": 900
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD05",
+     "GD06"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 480,
+  "launch_time": 2280
+ },
+ {
+  "no": 1010,
+  "type": "X13",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": [
+     "YQ06",
+     "YQ07"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "DQ",
+    "resource": [
+     "DQ06",
+     "DQ07"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "YY",
+    "resource": [
+     "YY05",
+     "YY06"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD05",
+     "GD06",
+     "GD07"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 540,
+  "launch_time": 2340
+ },
+ {
+  "no": 1011,
+  "type": "X16",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": [
+     "YQ08"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "DQ",
+    "resource": [
+     "DQ07"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "YY",
+    "resource": [
+     "YY05"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD07"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 600,
+  "launch_time": 2400
+ },
+ {
+  "no": 1012,
+  "type": "X17",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": [
+     "YQ08"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "YY",
+    "resource": [
+     "YY05"
+    ],
+    "cost": 120
+   },
+   {
+    "name": "GD",
+    "resource": [
+     "GD07"
+    ],
+    "cost": 720
+   }
+  ],
+  "start_time": 660,
+  "launch_time": 2460
+ }
+]

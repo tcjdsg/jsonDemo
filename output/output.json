@@ -1,0 +1,392 @@
+[
+ {
+  "no": "1001",
+  "type": "X10",
+  "action": [
+   {
+    "name": "D",
+    "resource": "D01",
+    "start_time": 0,
+    "end_time": 60
+   },
+   {
+    "name": "DQ",
+    "resource": "DQ01",
+    "start_time": 240,
+    "end_time": 360
+   },
+   {
+    "name": "KT",
+    "resource": "KT01",
+    "start_time": 240,
+    "end_time": 360
+   },
+   {
+    "name": "JY",
+    "resource": "JY01",
+    "start_time": 60,
+    "end_time": 960
+   },
+   {
+    "name": "HKDY",
+    "resource": "HKDY01",
+    "start_time": 120,
+    "end_time": 1320
+   },
+   {
+    "name": "GD",
+    "resource": "GD01",
+    "start_time": 1320,
+    "end_time": 2040
+   }
+  ]
+ },
+ {
+  "no": "1002",
+  "type": "X15",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": "YQ01",
+    "start_time": 60,
+    "end_time": 180
+   },
+   {
+    "name": "DQ",
+    "resource": "DQ01",
+    "start_time": 60,
+    "end_time": 180
+   },
+   {
+    "name": "YY",
+    "resource": "YY01",
+    "start_time": 60,
+    "end_time": 180
+   },
+   {
+    "name": "KT",
+    "resource": "KT01",
+    "start_time": 60,
+    "end_time": 180
+   },
+   {
+    "name": "HKDY",
+    "resource": "HKDY01",
+    "start_time": 180,
+    "end_time": 1380
+   },
+   {
+    "name": "GD",
+    "resource": "GD02",
+    "start_time": 1980,
+    "end_time": 2700
+   }
+  ]
+ },
+ {
+  "no": "1003",
+  "type": "X11",
+  "action": [
+   {
+    "name": "D",
+    "resource": "D02",
+    "start_time": 120,
+    "end_time": 180
+   },
+   {
+    "name": "DQ",
+    "resource": "DQ01",
+    "start_time": 420,
+    "end_time": 540
+   },
+   {
+    "name": "YY",
+    "resource": "YY01",
+    "start_time": 240,
+    "end_time": 360
+   },
+   {
+    "name": "KT",
+    "resource": "KT02",
+    "start_time": 180,
+    "end_time": 300
+   },
+   {
+    "name": "JY",
+    "resource": "JY01",
+    "start_time": 1020,
+    "end_time": 1920
+   },
+   {
+    "name": "HKDY",
+    "resource": "HKDY01",
+    "start_time": 180,
+    "end_time": 1380
+   },
+   {
+    "name": "GD",
+    "resource": "GD01",
+    "start_time": 2100,
+    "end_time": 2820
+   }
+  ]
+ },
+ {
+  "no": "1004",
+  "type": "X12",
+  "action": [
+   {
+    "name": "D",
+    "resource": "D01",
+    "start_time": 180,
+    "end_time": 240
+   },
+   {
+    "name": "JY",
+    "resource": "JY02",
+    "start_time": 240,
+    "end_time": 1140
+   },
+   {
+    "name": "HKDY",
+    "resource": "HKDY02",
+    "start_time": 240,
+    "end_time": 1440
+   },
+   {
+    "name": "GD",
+    "resource": "GD03",
+    "start_time": 1440,
+    "end_time": 2160
+   }
+  ]
+ },
+ {
+  "no": "1005",
+  "type": "X13",
+  "action": [
+   {
+    "name": "D",
+    "resource": "D02",
+    "start_time": 240,
+    "end_time": 300
+   },
+   {
+    "name": "JY",
+    "resource": "JY03",
+    "start_time": 300,
+    "end_time": 1200
+   },
+   {
+    "name": "GD",
+    "resource": "GD02",
+    "start_time": 1200,
+    "end_time": 1920
+   }
+  ]
+ },
+ {
+  "no": "1006",
+  "type": "X14",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": "YQ03",
+    "start_time": 300,
+    "end_time": 420
+   },
+   {
+    "name": "DQ",
+    "resource": "DQ02",
+    "start_time": 300,
+    "end_time": 420
+   },
+   {
+    "name": "YY",
+    "resource": "YY03",
+    "start_time": 300,
+    "end_time": 420
+   },
+   {
+    "name": "HKDY",
+    "resource": "HKDY04",
+    "start_time": 420,
+    "end_time": 1620
+   },
+   {
+    "name": "GD",
+    "resource": "GD03",
+    "start_time": 2220,
+    "end_time": 2940
+   }
+  ]
+ },
+ {
+  "no": "1007",
+  "type": "X21",
+  "action": [
+   {
+    "name": "D",
+    "resource": "D03",
+    "start_time": 360,
+    "end_time": 420
+   },
+   {
+    "name": "JY",
+    "resource": "JY04",
+    "start_time": 420,
+    "end_time": 1320
+   },
+   {
+    "name": "HKDY",
+    "resource": "HKDY03",
+    "start_time": 420,
+    "end_time": 1620
+   },
+   {
+    "name": "GD",
+    "resource": "GD04",
+    "start_time": 1620,
+    "end_time": 2340
+   }
+  ]
+ },
+ {
+  "no": "1008",
+  "type": "X22",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": "YQ05",
+    "start_time": 420,
+    "end_time": 540
+   },
+   {
+    "name": "DQ",
+    "resource": "DQ04",
+    "start_time": 420,
+    "end_time": 540
+   },
+   {
+    "name": "YY",
+    "resource": "YY04",
+    "start_time": 420,
+    "end_time": 540
+   },
+   {
+    "name": "GD",
+    "resource": "GD05",
+    "start_time": 540,
+    "end_time": 1260
+   }
+  ]
+ },
+ {
+  "no": "1009",
+  "type": "X17",
+  "action": [
+   {
+    "name": "D",
+    "resource": "D04",
+    "start_time": 480,
+    "end_time": 540
+   },
+   {
+    "name": "JY",
+    "resource": "JY05",
+    "start_time": 540,
+    "end_time": 1440
+   },
+   {
+    "name": "GD",
+    "resource": "GD06",
+    "start_time": 1440,
+    "end_time": 2160
+   }
+  ]
+ },
+ {
+  "no": "1010",
+  "type": "X13",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": "YQ06",
+    "start_time": 540,
+    "end_time": 660
+   },
+   {
+    "name": "DQ",
+    "resource": "DQ06",
+    "start_time": 540,
+    "end_time": 660
+   },
+   {
+    "name": "YY",
+    "resource": "YY06",
+    "start_time": 540,
+    "end_time": 660
+   },
+   {
+    "name": "GD",
+    "resource": "GD06",
+    "start_time": 660,
+    "end_time": 1380
+   }
+  ]
+ },
+ {
+  "no": "1011",
+  "type": "X16",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": "YQ08",
+    "start_time": 600,
+    "end_time": 720
+   },
+   {
+    "name": "DQ",
+    "resource": "DQ07",
+    "start_time": 600,
+    "end_time": 720
+   },
+   {
+    "name": "YY",
+    "resource": "YY05",
+    "start_time": 840,
+    "end_time": 960
+   },
+   {
+    "name": "GD",
+    "resource": "GD07",
+    "start_time": 1680,
+    "end_time": 2400
+   }
+  ]
+ },
+ {
+  "no": "1012",
+  "type": "X17",
+  "action": [
+   {
+    "name": "YQ",
+    "resource": "YQ08",
+    "start_time": 780,
+    "end_time": 900
+   },
+   {
+    "name": "YY",
+    "resource": "YY05",
+    "start_time": 660,
+    "end_time": 780
+   },
+   {
+    "name": "GD",
+    "resource": "GD07",
+    "start_time": 900,
+    "end_time": 1620
+   }
+  ]
+ }
+]
